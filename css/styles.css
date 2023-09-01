@@ -18,7 +18,7 @@ body.about {
 header{
     font-family: 'Work Sans', sans-serif;
     text-align: right center;
-    font-size: 30px;
+    font-size: 40px;
     color:black;
     font-weight: bold;
     letter-spacing: 8px;
@@ -32,13 +32,19 @@ ul{
 li{
     margin-block: 15px;
 }
-i{
-    margin-left: 15px;
+.redes{
+    margin-left: 35px;
     margin-top: 0px;
+}
+i{
+    font-size: 20px;
 }
 a{
     text-decoration: none;
     color: grey;
+}
+.iconos{
+    color: black;
 }
 h1{
     font-family: 'Raleway', sans-serif;
@@ -68,15 +74,27 @@ iframe.mapa{
 }
 h2{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
 }
-div.NomContacto{
+.NomContacto{
     color: #64c0b1;
     font-size: 20px;
 }
-div.TeleContacto{
+.Contactos{
     font-size: 15px;
     margin-bottom: 0.5%;
     font-weight: bold;
-    
+}
+.parrafoMusica{
+    font-weight: bold;
+    font-size: 15px;
+}
+.music{
+    font-size: 15px;
+    font-weight: bold;
+}
+.playmusica{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
